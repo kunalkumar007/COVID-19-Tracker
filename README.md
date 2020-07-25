@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project gives us the real time data of COVID-19 Patients all around the globe.
 
 ## Available Scripts
 
